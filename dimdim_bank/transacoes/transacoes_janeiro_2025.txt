@@ -1,0 +1,10 @@
+01/01/2025 - Transferência - João Silva -> Maria Santos - R$ 200,00
+02/01/2025 - Depósito - Pedro Oliveira - R$ 500,00
+03/01/2025 - Saque - João Silva - R$ 100,00
+05/01/2025 - Pagamento de Conta - João Silva - R$ 80,00
+08/01/2025 - Transferência - Pedro Oliveira -> João Silva - R$ 300,00
+12/01/2025 - Depósito - Maria Santos - R$ 1.200,00
+18/01/2025 - Saque - Pedro Oliveira - R$ 200,00
+22/01/2025 - PIX - João Silva -> Maria Santos - R$ 450,00
+25/01/2025 - Pagamento de Boleto - Maria Santos - R$ 320,00
+28/01/2025 - Transferência - Maria Santos -> Pedro Oliveira - R$ 180,00
